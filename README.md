@@ -22,10 +22,11 @@ This repository is where I track my learning, practice, projects, and progress w
 10. Redis & Caching
 11. Docker & Docker Compose
 12. Cloud Deployment
-13. AI / LLM API Integration
-14. RAG Fundamentals
-15. Project 2 
-16. React Fundamentals
+13. Prompting
+14. AI / LLM API Integration
+15. RAG Fundamentals
+16. Project 2 
+17. React Fundamentals
 
 ## Goal
 
