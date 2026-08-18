@@ -10,22 +10,38 @@ This repository is where I track my learning, practice, projects, and progress w
 
 ## Roadmap
 
-1. HTTP & Networking Basics
-2. Spring Boot Fundamentals
-3. REST API Development
-4. JPA & Hibernate
-5. DTO, Validation & Exception Handling
-6. Spring Security & JWT
-7. PostgreSQL / Database Integration
-8. Project 1 
-9. Testing — JUnit & Mockito
-10. Redis & Caching
-11. Docker & Docker Compose
+01. HTTP & Networking Basics
+
+02. Spring Boot Fundamentals
+
+03. REST API Development
+
+04. PostgreSQL / Database Integration
+
+05. JPA & Hibernate
+
+06. DTO + Validation + Exception Handling
+
+07. Spring Security + JWT
+
+08. Project 1 
+
+09. Testing — JUnit + Mockito
+
+10. Docker + Docker Compose
+
+11. Redis + Caching
+
 12. Cloud Deployment
-13. Prompting
-14. AI / LLM API Integration
+
+13. AI / LLM API Integration
+
+14. Prompting
+
 15. RAG Fundamentals
-16. Project 2 
+
+16. Project 2
+
 17. React Fundamentals
 
 ## Goal
